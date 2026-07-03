@@ -7,8 +7,8 @@
  *               salin token yang muncul di log ke sini.
  * ============================================================ */
 window.APP_CONFIG = {
-  GAS_URL: "PASTE_URL_WEB_APP_GAS_DI_SINI",
-  TOKEN:   "PASTE_TOKEN_DI_SINI",
+  GAS_URL: "https://script.google.com/macros/s/AKfycbwMOS_WUu9vwvAYZzOFPaC9EZe6wbiDVSSYKewWCFsAiAp3qBTsrRQBTx0yZr6pc46W/exec",
+  TOKEN:   "0ca38508769e4f98a06ae53c",
 
   // Pengaturan lanjutan (boleh dibiarkan default)
   DATA_POLL_MS: 60000,       // Lihat Data mengecek data baru tiap 60 detik
